@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pythonlibs/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model files
+*.pkl
+
+# Logs
+*.log
+operation_logs.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Replit
+.replit
+.upm
+upm.lock
+replit.nix
+pyproject.toml
+uv.lock
